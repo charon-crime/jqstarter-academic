@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "edge"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Programming"
+  description = "C/C++, Python, Android, Matlab, ROS"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "drafting-compass"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Mechanical design"
+  description = "Creo, Solidworks, KeyShot"  
+
+[[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Circuit design"
+  description = "Altium Designer, FPGA, ARM"
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "Video clips, Vlog"
 
 # Uncomment to use emoji icons.
 # [[feature]]

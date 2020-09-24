@@ -11,7 +11,7 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -20,18 +20,20 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+
+
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "Flexible Electronics"
+     tag = "Flexible Electronics"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Mechanical Design"
+     tag = "Mechanical Design"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -66,7 +68,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -74,4 +76,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
