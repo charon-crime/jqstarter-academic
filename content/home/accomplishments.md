@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   title = "第五届全国大学生农业建筑环境竞赛，一等奖"
   date_start = "2017-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
  
 [[item]]
   organization = "队员"

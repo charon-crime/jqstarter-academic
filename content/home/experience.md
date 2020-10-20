@@ -25,20 +25,20 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2018-09-01"
   description = """
-  Responsibilities include:
+  实习内容:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 生产工艺链学习
+  * 整车智能装配工厂
+  * 机器人喷涂车间学习
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "机械设计实习生"
+  company = "湖北新广灿环保设备有限公司"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "湖北 武汉"
+  date_start = "2019-06-01"
+  date_end = "2019-09-01"
+  description = """负责环保阀门中零部件与加工尺寸设计"""
 
 +++
